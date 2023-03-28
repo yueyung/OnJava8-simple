@@ -17,8 +17,6 @@
 
 ## 精简进度
 
-- [x] [前言][已删除]
-- [x] [简介][已删除]
 - [x] [第一章 对象的概念](docs/book/01-What-is-an-Object.md)
 - [x] [第二章 安装 Java 和本书用例](docs/book/02-Installing-Java-and-the-Book-Examples.md)
 - [x] [第三章 万物皆对象](docs/book/03-Objects-Everywhere.md)
